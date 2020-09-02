@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StringDecompress": {
+      "commandName": "Project",
+      "commandLineArgs": "-i 2[3[a2[ca]]b]3[abc]4[ab]c10[a]"
+    }
+  }
+}
